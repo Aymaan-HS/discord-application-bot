@@ -10,7 +10,7 @@ const {
   ActionRowBuilder, 
   ButtonBuilder,
   ButtonStyle,
-  PermissionsBitField 
+  PermissionsBitField  
 } = require("discord.js");
 
 /* ================= CONFIG ================= */
