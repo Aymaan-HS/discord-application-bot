@@ -4,7 +4,7 @@ keepAlive();
 
 const {
   Client,
-  GatewayIntentBits,
+  GatewayIntentBits, 
   ChannelType,
   EmbedBuilder,
   ActionRowBuilder,
